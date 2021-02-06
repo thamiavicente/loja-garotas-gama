@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\Girls.Gama2\\Girls.Gama2.csproj": {}
+    "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\loja.gama\\loja.gama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\Girls.Gama2\\Girls.Gama2.csproj": {
+    "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\loja.gama\\loja.gama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\Girls.Gama2\\Girls.Gama2.csproj",
-        "projectName": "Girls.Gama2",
-        "projectPath": "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\Girls.Gama2\\Girls.Gama2.csproj",
+        "projectUniqueName": "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\loja.gama\\loja.gama.csproj",
+        "projectName": "loja.gama",
+        "projectPath": "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\loja.gama\\loja.gama.csproj",
         "packagesPath": "C:\\Users\\thaty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\Girls.Gama2\\obj\\",
+        "outputPath": "C:\\Users\\thaty\\Desktop\\cursos\\GAMA-BackEnd\\c#\\loja.gama\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

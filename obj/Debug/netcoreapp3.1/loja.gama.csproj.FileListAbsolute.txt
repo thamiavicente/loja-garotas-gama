@@ -1,0 +1,13 @@
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\obj\Debug\netcoreapp3.1\loja.gama.csprojAssemblyReference.cache
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\obj\Debug\netcoreapp3.1\loja.gama.AssemblyInfoInputs.cache
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\obj\Debug\netcoreapp3.1\loja.gama.AssemblyInfo.cs
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\obj\Debug\netcoreapp3.1\loja.gama.csproj.CoreCompileInputs.cache
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\bin\Debug\netcoreapp3.1\loja.gama.exe
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\bin\Debug\netcoreapp3.1\loja.gama.deps.json
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\bin\Debug\netcoreapp3.1\loja.gama.runtimeconfig.json
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\bin\Debug\netcoreapp3.1\loja.gama.runtimeconfig.dev.json
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\bin\Debug\netcoreapp3.1\loja.gama.dll
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\bin\Debug\netcoreapp3.1\loja.gama.pdb
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\obj\Debug\netcoreapp3.1\loja.gama.dll
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\obj\Debug\netcoreapp3.1\loja.gama.pdb
+C:\Users\thaty\Desktop\cursos\GAMA-BackEnd\c#\loja.gama\obj\Debug\netcoreapp3.1\loja.gama.genruntimeconfig.cache

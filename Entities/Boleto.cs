@@ -1,33 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using loja.gama.Entities.Interfaces;
 
-namespace Girls.Gama2
+namespace loja.gama.Entities
 {
-    public class Boleto
+    public class Boleto : Pagamento, IPagar
     {
         private const int DiasVencimento = 15;
-        private const decimal Juros = 0.10M;
+        private const double Juros = 0.10;
 
         public Boleto(string cpf,
-                       decimal valor,
-                       string descricao)
+                        double valor
+                        //string descricao
+                        )
         {
             Cpf = cpf;
             Valor = valor;
-            Descricao = descricao;
-
+            // Descricao = descricao;
             DataEmissao = DateTime.Now;
-            Confirmacao = false;
         }
 
         public Guid CodigoBarra { get; set; }
-        public decimal Valor { get; set; }
-        public DateTime DataEmissao { get; set; }
         public DateTime DataVencimento { get; set; }
-        public DateTime DataPagamento { get; set; }
-        public bool Confirmacao { get; set; }
-        public string Cpf { get; set; }
+        public DateTime DataEmissao { get; set; }
         public string Descricao { get; set; }
 
         public void GerarBoleto()
@@ -36,16 +32,27 @@ namespace Girls.Gama2
             DataVencimento = DataEmissao.AddDays(DiasVencimento);
         }
 
+        public bool EstaPago()
+        {
+            return Confirmacao;
+        }
+
+        public bool EstaVencido()
+        {
+            return DataVencimento < DateTime.Now;
+        }
+
         public void CalcularJuros()
         {
             var taxa = Valor * Juros;
             Valor += taxa;
         }
 
-        public void Pagar()
-        {
-            DataPagamento = DateTime.Now;
-            Confirmacao = true;
-        }
+        //public void Pagar()
+        //{
+        //    DataPagamento = DateTime.Now;
+        //    Confirmacao = true;
+        //}
     }
 }
+
